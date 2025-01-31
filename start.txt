@@ -1,0 +1,1 @@
+lat_60 23 34 S lon_40 23 11 E vel_5 vel_2
