@@ -32,6 +32,7 @@ print("- Wind speed: 3 m/s")
 print("- Time step: 0.01 s (tiny steps for precise calculations)")
 print("- Max simulation time: 100 s (we won't wait forever!)")
 print("=" * 100)
+print("Anurag and Hanni")
 input("[Press Enter to Start!]")
 print("")
 
